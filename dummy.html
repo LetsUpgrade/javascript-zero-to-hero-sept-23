@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div 
+        {
+            height: 300px;
+            width: 300px;
+            background-color: red;
+        }
+
+        p 
+        {
+            background-color: yellow;
+        }
+
+        .one 
+        {
+            height: 200px;
+            width: 200px;
+            background-color: yellowgreen;
+            transition: 3s;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- <div>
+        <p>Hello</p>
+    </div> -->
+
+    <div class="one" id="one">
+        Hello Everyone
+    </div>
+    <button onclick="doSomething()">Perform</button>
+
+
+    <script>
+
+        function doSomething()
+        {
+            // document.getElementById("one").innerText="<h1>Something new</h1>";
+            // document.getElementById("one").innerHTML="<h1>Something new</h1>";
+
+            // document.getElementById("one").style.height="400px";
+            // document.getElementById("one").style.backgroundColor="blue";
+            // document.getElementById("one").style.marginLeft="300px";
+            document.getElementById("one").style.transform="rotateZ(28000deg)";
+
+
+
+        }
+        
+
+    </script>
+    
+
+    
+</body>
+</html>
