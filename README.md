@@ -11,7 +11,7 @@ Welcome to the "JavaScript Zero to Hero in 5 Days" course by LetsUpgrade! In thi
 
 ## Get Started
 
-To begin your journey to becoming a JavaScript hero, click on the Document link above or visit [JavaScript Zero to Hero Course](https://letsupgrade.notion.site/JavaScript-Zero-to-Hero-in-5-Days-d9954bc517794fe5b491645d39565d4a?pvs=4) to access the course material. Follow the steps mentioned to successfuly complete the course
+To begin your journey to becoming a JavaScript hero, click on the Document link above or visit [JavaScript Zero to Hero Course](https://letsupgrade.notion.site/JavaScript-Zero-to-Hero-in-5-Days-d9954bc517794fe5b491645d39565d4a?pvs=4) to access the course material. Follow the steps mentioned to successfully complete the course
 
 ## Explore More
 
